@@ -37,7 +37,3 @@ To view and interact with the B7burger project:
 
 - **Bonieky:** Instructor and creator of the course where this project was developed.
 - **b7web.com:** Platform where the course is hosted and where learners can access valuable resources and tutorials.
-
-## License
-
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code according to the terms of the license.
